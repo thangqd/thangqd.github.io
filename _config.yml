@@ -27,7 +27,7 @@ author:
   image             : https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.0-9/81728565_2688082604562354_5538931030561390592_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=nxjywMA_hBgAX92gLKL&_nc_ht=scontent.fsgn5-3.fna&oh=0de4b17711bd23cab13a44774a15cb46&oe=5ED1FC7B
   behance           : thangqd
 # dribbble          : your_username
-  email             : quachdongthang@domain.com
+  email             : quachdongthang@gmail.com
   facebook          : thang.quachdong
   github            : thangqd
 # gitlab            : your_username
@@ -69,11 +69,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
