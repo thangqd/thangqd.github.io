@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Vue.JS
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: React
+  percentage: 80
   color: success
