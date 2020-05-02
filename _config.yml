@@ -82,4 +82,4 @@ exclude:
   - LICENSE
   - "*.log"
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-time-machine
