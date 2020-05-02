@@ -5,5 +5,6 @@ style:
 color: 
 description: How to call HCMGIS Library in QGIS Console.
 ---
-## 1. Unsubscribe from irrelevant emails
+## 1. Import HCMGIS library
+
 
