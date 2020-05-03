@@ -61,6 +61,18 @@ hcmgis_medialaxis(input, 'OBJECTID', 1,output,status_callback = None)
 # hcmgis_medialaxis(layer, field, density,output,status_callback = None):
 # layer: input layer
 # field: unique field of input layer, in this case is 'OBJECTID'
-# density (float value): densify geometries with a given interval (in this case the density is 1 meter). 
+# density (float value): densify geometries with a given interval (in this case is 1 meter). 
 # Smaller density value returns smoother centerline but slower
+```
+
+## Create Centerline from Bulding block
+```python
+input = "D:\\osm\\block.shp" # your polygon input
+output = "D:\\osm\\centerline.geojson" #  your centerline output in .sqlite, .shp, .geojson, .gpkg,  or kml
+hcmgis_centerline(input, 1, True, 2,output,status_callback = None)
+# hcmgis_centerline(layer,density,chksurround,distance,output,status_callback = None):
+# density (float value): densify geometries with given an interval (in this case is 1 meter). 
+# Smaller density value returns smoother centerline but slower
+# chksurround: if chksurround is True, then the function will also create a surrounding 'centerline' 
+# with a given "distance" to the bounding box of building block (in this case is 2 meters)
 ```
