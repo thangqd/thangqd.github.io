@@ -1,2 +1,2 @@
 # thangqd.github.io
- My profile on https://thangqd.github.io
+ Visit my profile on https://thangqd.github.io
