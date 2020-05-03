@@ -8,7 +8,7 @@ description: How to call HCMGIS Library in Standalone PyQGIS Application.
 
 ***
 ### 1. Import HCMGIS library in Standalone PyQGIS Application:
-##### In your PyGIS Application, simply copy hcmgis_library.py to your project folder and then import by "from hcmgis_library import"
+##### In your PyGIS Application, simply copy hcmgis_library.py to your project folder and then import by **"from hcmgis_library import"**
 ##### If you don't want to copy hcmgis_library.py, just reference to it as below:
 
 ```python
@@ -44,4 +44,5 @@ hcmgis_lec(layer,field,output,status_callback = None)
 
 ***
 ### 3. Call HCMGIS Library:
-#### Details in: https://thangqd.github.io/blog/call-hcmgis-library-qgis-python-console
+#### Details in:  ![Call HCMGIS Plugin QGIS Python Console](https://thangqd.github.io/blog/call-hcmgis-library-qgis-python-console)
+ 
