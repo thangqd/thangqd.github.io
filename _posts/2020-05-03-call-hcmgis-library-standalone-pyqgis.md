@@ -44,4 +44,7 @@ hcmgis_lec(layer,field,output,status_callback = None)
 
 ***
 ### 3. Call HCMGIS Library:
-#### Reference:  [Call HCMGIS Plugin QGIS Python Console](https://hcmgis.github.io/blog/call-hcmgis-library-qgis-python-console)
+![Standalone PyQGIS](/assets/images/posts/2020/HCMGIS/standalonepyqgis.png)
+
+***
+#### Reference:  [Call HCMGIS Plugin QGIS Python Console](https://thangqd.github.io/blog/call-hcmgis-library-qgis-python-console)
