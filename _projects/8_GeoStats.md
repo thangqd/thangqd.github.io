@@ -1,5 +1,5 @@
 ---
-name: HCMGIS Stats
+name: HCMGIS GeoStats
 tools: [HCMGIS Platforms]
 image: /assets/images/projects/geostats.png
 description: HCMGIS GeoStats - Smarter Data, Better Decisions
