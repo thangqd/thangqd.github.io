@@ -123,4 +123,3 @@ hcmgis_lec(input,'fid', output, status_callback = None)
 # "field": the unique field of input layer, in this case is 'fid'
 ```
 ![lec](/assets/images/posts/2020/HCMGIS/lec.png)
-***
