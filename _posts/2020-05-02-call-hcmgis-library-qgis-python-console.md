@@ -12,4 +12,4 @@ In QGIS Python console:
 from HCMGIS.hcmgis_library import *
 ```
 
-![Import HCMGIS](/assets/images/posts/2020/import.png)
+![Import HCMGIS](/assets/images/posts/2020/HCMGIS/import.png)
