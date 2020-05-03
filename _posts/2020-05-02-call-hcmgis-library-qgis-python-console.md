@@ -76,7 +76,7 @@ hcmgis_medialaxis(input, 'OBJECTID', 1,output,status_callback = None)
 
 
 ***
-## Create Centerline from Bulding block
+## Create Centerline from Building block
 ```python
 hcmgis_centerline(layer,density,chksurround,distance,output,status_callback = None)
 ```
