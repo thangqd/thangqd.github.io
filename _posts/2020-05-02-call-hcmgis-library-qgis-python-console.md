@@ -12,21 +12,21 @@ In QGIS Python console:
 from HCMGIS.hcmgis_library import *
 ```
 ## 2. Call HCMGIS Library:
-# Add dozens of basemaps to XYZ Tiles of QGIS:
+### Add dozens of basemaps to XYZ Tiles of QGIS:
 ```python
 hcmgis_basemap_load()
 ```
 ![hcmgis_basemap_load()](/assets/images/posts/2020/HCMGIS/basemap_load.png)
 
-# Download Global COVID-19 live update Data
+### Download Global COVID-19 live update Data
 ```python
 hcmgis_covid19()
 ```
-# Download Global COVID-19 Timeseries Data
+### Download Global COVID-19 Timeseries Data
 ```python
 hcmgis_covid19_timeseries()
 ```
-# Download Vietnam COVID-19 live update in Polygon
+### Download Vietnam COVID-19 live update in Polygon
 ```python
 hcmgis_covid19_vietnam()
 ```
