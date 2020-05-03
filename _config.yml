@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Quach Dong Thang
   image             : https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.0-9/81728565_2688082604562354_5538931030561390592_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=nxjywMA_hBgAX92gLKL&_nc_ht=scontent.fsgn5-3.fna&oh=0de4b17711bd23cab13a44774a15cb46&oe=5ED1FC7B
-  behance           : thangqd
+  behance           : thangquachdong
 # dribbble          : your_username
   email             : quachdongthang@gmail.com
   facebook          : thang.quachdong
@@ -36,12 +36,12 @@ author:
   medium            : thangqd
 # soundcloud        : your_username
 # spotify           : your_username
-# stackoverflow     : your_user_id
+# stackoverflow     : thangqd
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
   twitter           : thangqd
 # vimeo             : your_username
-# youtube           : your_channel_name
+  youtube           : thangqd
 
 
 ### Posts ###
@@ -58,7 +58,7 @@ collections:
 
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+disqus: thangqd                         # Your website Shortname on disqus
 
 
 ### Defaults for collections ###
@@ -72,7 +72,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: true                                   # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
