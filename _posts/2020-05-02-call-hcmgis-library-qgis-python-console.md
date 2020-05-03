@@ -33,7 +33,6 @@ hcmgis_basemap_load()
 ```
 ![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/basemap_load.png)
 
-***
 #### Download Global COVID-19 live update Data
 ```python
 hcmgis_covid19()
