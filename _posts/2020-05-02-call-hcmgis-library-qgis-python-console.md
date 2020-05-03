@@ -1,7 +1,7 @@
 ---
 title: Call HCMGIS Library in QGIS Python Console
 tags: [HCMGIS Plugin, QGIS]
-style: 
+style: fill
 color: primary
 description: How to call HCMGIS Library in QGIS Console
 ---
