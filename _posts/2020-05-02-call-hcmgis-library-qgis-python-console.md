@@ -23,17 +23,17 @@ Result:</br>
 ```python
 hcmgis_covid19()
 ```
-![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/global_covid19.png)
+![Global COVID-19](/assets/images/posts/2020/HCMGIS/global_covid19.png)
 
 
 #### Download Global COVID-19 Timeseries Data
 ```python
 hcmgis_covid19_timeseries()
 ```
-![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/global_covid19_timeseries.png)
+![Global COVID-19 Timeseries](/assets/images/posts/2020/HCMGIS/global_covid19_timeseries.png)
 
 #### Download Vietnam COVID-19 live update in Polygon
 ```python
 hcmgis_covid19_vietnam()
 ```
-![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/vietnam_covid19.png)
+![Vietnam COVID-19](/assets/images/posts/2020/HCMGIS/vietnam_covid19.png)
