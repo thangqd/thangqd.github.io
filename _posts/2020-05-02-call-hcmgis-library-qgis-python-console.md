@@ -117,7 +117,7 @@ hcmgis_lec(layer,field,output,status_callback = None)
 ```
 ```python
 input = "D:\\osm\\points.shp" # your point input
-output = "D:\\osm\lec.shp"  # your Largest Empty Circle in Polygon
+output = "D:\\osm\\lec.shp"  # your Largest Empty Circle in Polygon
 hcmgis_lec(input,'fid', output, status_callback = None)
 # hcmgis_lec(layer,field,output,status_callback = None): 
 # "field": the unique field of input layer, in this case is 'fid'
