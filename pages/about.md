@@ -8,6 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
+Welcome to my Blog!
 
 <div class="row">
 <!-- {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %} -->
