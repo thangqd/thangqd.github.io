@@ -61,5 +61,6 @@ hcmgis_medialaxis(input, 'OBJECTID', 1,output,status_callback = None)
 # hcmgis_medialaxis(layer, field, density,output,status_callback = None):
 # layer: input layer
 # field: unique field of input layer, in this case is 'OBJECTID'
-# density (float value): densify geometries with a given interval (in this case the density is 1 meter). Smaller density value returns smoother centerline but slower
+# density (float value): densify geometries with a given interval (in this case the density is 1 meter). 
+# Smaller density value returns smoother centerline but slower
 ```
