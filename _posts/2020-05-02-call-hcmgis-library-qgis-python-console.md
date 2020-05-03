@@ -17,7 +17,6 @@ from HCMGIS.hcmgis_library import *
 hcmgis_basemap_load()
 ```
 ![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/basemap_load.png)
-![hcmgis_basemap_load](/assets/images/basemap_load.png)
 
 #### Download Global COVID-19 live update Data
 ```python

@@ -1,7 +1,7 @@
 ---
 name: HCMGIS PointCloud
 tools: [HCMGIS Platforms]
-image: https://hcmgis.vn/wp-content/uploads/2019/08/geotag.jpg
-description: HCMGIS GeoEvents - Your Way to Events
+image: /assets/images/projects/pointcloud.png
+description: HCMGIS PointCloud - Your PointCloud on the Cloud
 external_url: https:/pointcloud.hcmgis.vn
 ---
