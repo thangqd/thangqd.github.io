@@ -6,7 +6,14 @@ color: primary
 description: How to call HCMGIS Library in QGIS Console
 ---
 
-### 1. List of HCMGIS Library Functions:
+***
+### 1. Import HCMGIS library:
+#### After install HCMGIS Plugin, open QGIS Python Console and import HCMGIS.hcmgis_library:  
+```python
+from HCMGIS.hcmgis_library import *
+```
+
+### 2. List of HCMGIS Library Functions:
 ```python
 hcmgis_basemap_load()  
 hcmgis_covid19()  
@@ -18,12 +25,6 @@ hcmgis_closest_farthest(layer,field,closest,farthest,status_callback = None)
 hcmgis_lec(layer,field,output,status_callback = None)
 ``` 
 
-***
-### 2. Import HCMGIS library
-#### After install HCMGIS Plugin, open QGIS Python Console and import HCMGIS.hcmgis_library:  
-```python
-from HCMGIS.hcmgis_library import *
-```
 
 ***
 ### 3. Call HCMGIS Library:
