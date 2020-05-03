@@ -7,5 +7,9 @@ description: How to call HCMGIS Library in QGIS Console.
 ---
 ## 1. Import HCMGIS library
 In QGIS Python console:  
-<code>from HCMGIS.hcmgis_library import *</code>
+
+```python
+from HCMGIS.hcmgis_library import *
+```
+
 ![Import HCMGIS](/assets/images/import.png)
