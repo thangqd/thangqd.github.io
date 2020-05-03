@@ -91,8 +91,8 @@ hcmgis_centerline(input, 1, True, 2,output,status_callback = None)
 # with a given "distance" to the bounding box of building block (in this case is 2 meters)
 ```
 ![centerline](/assets/images/posts/2020/HCMGIS/centerline.png)
-***
 
+***
 ### Closest/ farthest pair of points
 ```python
 hcmgis_closest_farthest(layer,field,closest,farthest,status_callback = None)
@@ -108,9 +108,9 @@ hcmgis_closest_farthest(input,'fid', closest, farthest, status_callback = None)
 # "field": the unique field of input layer, in this case is 'fid'
 ```
 ![centerline](/assets/images/posts/2020/HCMGIS/closest_farthest.png)
+
+
 ***
-
-
 ### Largest Empty Circle
 ```python
 hcmgis_lec(layer,field,output,status_callback = None)
