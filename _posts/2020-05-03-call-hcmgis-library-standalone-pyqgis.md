@@ -2,7 +2,7 @@
 title: Call HCMGIS Library in Standalone PyQGIS Application
 tags: [HCMGIS Plugin, QGIS, Standalone PyQGIS]
 style: 
-color: secondary
+color: success
 description: How to call HCMGIS Library in Standalone PyQGIS Application.
 ---
 
