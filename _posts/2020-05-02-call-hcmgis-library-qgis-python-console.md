@@ -31,7 +31,6 @@ from HCMGIS.hcmgis_library import *
 ```python
 hcmgis_basemap_load()
 ```
-Result:</br>
 ![hcmgis_basemap_load](/assets/images/posts/2020/HCMGIS/basemap_load.png)
 
 ***
