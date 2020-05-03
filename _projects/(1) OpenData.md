@@ -1,7 +1,7 @@
 ---
 name: HCMGIS OpenData
 tools: [HCMGIS Platforms]
-image: https://hcmgis.vn/wp-content/uploads/2018/08/banner_HCMGIS_Opendata_slogan.jpg
+image: /assets/images/projects/import.png
 description: HCMGIS Opendata - Data worth Sharing
 external_url: https://opendata.hcmgis.vn
 ---
