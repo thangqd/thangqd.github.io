@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : Quach Dong Thang Blog
 description         : >-
-                      "Trường phong phá lãng hôi hữu thì,
-                       Trực quải vân phàm tế thương hải"
+                      "Knowledge worth Sharing"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : thangqd/thangqd.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
