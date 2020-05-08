@@ -9,7 +9,7 @@ description: How to istall QGIS Server on Windows.
 ***
 ### 1. Install QGIS Server
 #### - [Download OSGeo4W](https://trac.osgeo.org/osgeo4w/)  
-#### - Run OSGe4W with Advanced Install option  
+#### - Run OSGeo4W with Advanced Install option  
 ![OSGeo4W](/assets/images/posts/2020/QGISServer/osgeo4w.png)
 #### - Search and choose qgis-server to install  
 ![QGIS Server](/assets/images/posts/2020/QGISServer/qgisserver.png)
