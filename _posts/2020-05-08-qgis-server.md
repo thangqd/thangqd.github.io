@@ -9,7 +9,7 @@ description: How to istall QGIS Server on Windows.
 ***
 ### 1. Install QGIS Server
 #### - [Download OSGeo4W](https://trac.osgeo.org/osgeo4w/)  
-#### - Run OSGeo4oW with Advanced Install option  
+#### - Run OSGeo4W with Advanced Install option  
 ![OSGeo4W](/assets/images/posts/2020/QGISServer/osgeo4w.png)
 #### - Search and choose qgis-server to install  
 ![QGIS Server](/assets/images/posts/2020/QGISServer/qgisserver.png)
@@ -109,11 +109,4 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 url = 'http://localhost/cgi-bin/qgis_mapserv.fcgi.exe?SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=countries&map=world.qgs'
 qgis.utils.iface.addVectorLayer(url,'qgisserverwfs','WFS')  
 ```  
-![Add WFS in QGIS Python Console](/assets/images/posts/2020/QGISServer/wfsqgis.png)  
-
-
-
-
-
-
- 
+![Add WFS in QGIS Python Console](/assets/images/posts/2020/QGISServer/wfsqgis.png)
