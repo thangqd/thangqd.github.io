@@ -62,7 +62,7 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
     o airports
     o places
     o countries
-    o countries_shapeburst
+    o countries_shapeburst  
 #### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
 ![Configure QGIS Server](/assets/images/posts/2020/QGISServer/configureqgisserver.png)  
 
