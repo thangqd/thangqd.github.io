@@ -62,8 +62,8 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
     o airports
     o places
     o countries
-    o countries_shapeburst\  
-#### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
+    o countries_shapeburst  
+<br/>#### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
 ![Configure QGIS Server](/assets/images/posts/2020/QGISServer/configureqgisserver.png)  
 
 ### 3. Test QGIS Server:
@@ -109,11 +109,4 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 url = 'http://localhost/cgi-bin/qgis_mapserv.fcgi.exe?SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=countries&map=world.qgs'
 qgis.utils.iface.addVectorLayer(url,'qgisserverwfs','WFS')  
 ```  
-![Add WFS in QGIS Python Console](/assets/images/posts/2020/QGISServer/wfsqgis.png)  
-
-
-
-
-
-
- 
+![Add WFS in QGIS Python Console](/assets/images/posts/2020/QGISServer/wfsqgis.png)
