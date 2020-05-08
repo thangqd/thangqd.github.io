@@ -9,7 +9,7 @@ description: How to istall QGIS Server on Windows.
 ***
 ### 1. Install QGIS Server
 #### - [Download OSGeo4W](https://trac.osgeo.org/osgeo4w/)  
-#### - Run OSGeo4W with Advanced Install option  
+#### - Run OSGeo4oW with Advanced Install option  
 ![OSGeo4W](/assets/images/posts/2020/QGISServer/osgeo4w.png)
 #### - Search and choose qgis-server to install  
 ![QGIS Server](/assets/images/posts/2020/QGISServer/qgisserver.png)
@@ -59,10 +59,10 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 #### - Open world.qgs or (world3.qgs) and Save as Project to QGIS bin folder `(C:\OSGeo4W64\apps\qgis\bin)`  
 ![QGIS Project](/assets/images/posts/2020/QGISServer/qgisproject.png)  
 #### -	There are 4 layers in the world.qgs project:
-    airports
-    places
-    countries
-    countries_shapeburst  
+    airports  
+    places  
+    countries  
+    countries_shapeburst    
 #### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
 ![Configure QGIS Server](/assets/images/posts/2020/QGISServer/configureqgisserver.png)  
 
