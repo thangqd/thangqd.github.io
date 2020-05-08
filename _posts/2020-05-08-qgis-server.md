@@ -59,11 +59,11 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 #### - Open world.qgs or (world3.qgs) and Save as Project to QGIS bin folder `(C:\OSGeo4W64\apps\qgis\bin)`  
 ![QGIS Project](/assets/images/posts/2020/QGISServer/qgisproject.png)  
 #### -	There are 4 layers in the world.qgs project:
-    o airports
-    o places
-    o countries
-    o countries_shapeburst  
-<br/>#### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
+    airports  
+    places  
+    countries  
+    countries_shapeburst  
+#### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
 ![Configure QGIS Server](/assets/images/posts/2020/QGISServer/configureqgisserver.png)  
 
 ### 3. Test QGIS Server:
