@@ -54,6 +54,7 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 ##### -	Open Web browser to testing a GetCapabilities request to QGIS Server:
 `http://localhost/cgi-bin/qgis_mapserv.fcgi.exe?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities`  
 ![GetCapabilities](/assets/images/posts/2020/QGISServer/getcapabilities.png)  
+
 ***
 ### 2. Publish maps to QGIS Server from a QGIS Project  
 #### - Download [demo data](https://github.com/qgis/QGIS-Training-Data/archive/v2.0.zip), unzip the files in the qgis-server-tutorial-data  
@@ -66,6 +67,7 @@ SetEnv QT_PLUGIN_PATH "C:\OSGeo4W64\apps\qgis\qtplugins;C:\OSGeo4W64\apps\Qt5\pl
 ###### countries_shapeburst  
 #### - Configure WMS, WMTS and WFS: menu Project --> Properties --> QGIS Server:
 ![Configure QGIS Server](/assets/images/posts/2020/QGISServer/configureqgisserver.png)  
+
 ***
 ### 3. Test QGIS Server:
 ### WMS
