@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:<br>
+Hi, I'm **{{ site.author.name }}** :wave:<br>
 Welcome to my Blog!
 
 <div class="row">
