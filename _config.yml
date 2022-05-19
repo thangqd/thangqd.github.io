@@ -1,32 +1,30 @@
 ### Site Settings ###
 title               : Quach Dong Thang's  Blog
 description         : >-
-                    Share & Care
+                     Share & Care
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : thangqd/thangqd.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : "YoussefRaafatNasry/portfolYOU"
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
 plugins:
-- jemoji
-- jekyll-admin
+  - jemoji
 
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-- pages/tags.html
-- pages/404.html
-- pages/index.md
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
 
 
 ### Author Info ###
 author:
   name              : Quach Dong Thang
-# image             : https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.0-9/81728565_2688082604562354_5538931030561390592_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=nxjywMA_hBgAX92gLKL&_nc_ht=scontent.fsgn5-3.fna&oh=0de4b17711bd23cab13a44774a15cb46&oe=5ED1FC7B
   image             : /assets/images/thangqd.png
-#   image             : /assets/images/Vikings.jpg
-#  behance           : thangquachdong
+  # behance           : your_username
 # dribbble          : your_username
   email             : quachdongthang@gmail.com
   facebook          : thang.quachdong
@@ -35,15 +33,16 @@ author:
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : thangqd
-#  medium            : thangqd
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
-#  stackoverflow     : thangqd
+# stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-twitter           : thangqd
+  twitter           : thangqd
 # vimeo             : your_username
-#  youtube           : thangqd
+# youtube           : your_channel_name
+# keybase           : your_username
 
 
 ### Posts ###
@@ -55,18 +54,18 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-
-
+  
 ### Disqus ###
-disqus: thangqd-github-io                         # Your website Shortname on disqus
+disqus:
+  shortname: thangqd                    # Your website Shortname on disqus
+
 
 ### Analytics ###
 analytics:
-enabled: false                                        # Set true to enable analytics
-google:
-  tracking_id: your-google-tracking-id
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
@@ -77,24 +76,24 @@ buymeacoffee:
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
 
+
 ### Defaults for collections ###
 defaults:
-- scope:
-    path: ""
-    type: "projects"
-  values:
-    layout: "page"
-- scope:
-    path: ""
-    type: "posts"
-  values:
-    comments: true                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
 
 ### Exclude from processing ###
 exclude:
-- README.md
-- CONTRIBUTING.md
-- LICENSE
-- "*.log"
-
-# theme: jekyll-theme-time-machine
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
