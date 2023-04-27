@@ -34,12 +34,12 @@
 <body>
 	<audio id="player" controls autoplay>
 		<!-- <source src="./audio/thuongnhautoiben.mp3" type="audio/mpeg"> -->
-		<source src="./audio/thuongnhautoiben.mp3" type="audio/mpeg">
+		<source src="./audio/bentrentanglau.mp3" type="audio/mpeg">
 	</audio>
 	<script>
 		var audio = document.getElementById("player")
 		audio.addEventListener('ended', function () {
-			audio.src = "./audio/roitoiluon.mp3";// you can probably load this from an array of songs URL that you can maintain 
+			audio.src = "./audio/bentrentanglau.mp3";// you can probably load this from an array of songs URL that you can maintain 
 			audio.pause();
 			audio.load();
 			audio.play()
