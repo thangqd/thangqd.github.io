@@ -6,6 +6,8 @@ color: success
 description: How to call HCMGIS Library in Standalone PyQGIS Application.
 ---
 
+<script src="https://gist.github.com/maxim75/28521461256e37637860dbe3c09c7326.js"></script>
+
 ***
 ### 1. Import HCMGIS library in Standalone PyQGIS Application:
 ##### In your PyGIS Application, simply copy hcmgis_library.py to your project folder and then import by "from hcmgis_library import *"
