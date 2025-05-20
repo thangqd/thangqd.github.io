@@ -7,6 +7,10 @@ repository          : thangqd/thangqd.github.io     # Change to <your-username>/
 remote_theme        : "YoussefRaafatNasry/portfolYOU"
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+# Mapbox Configuration
+mapbox:
+  access_token: {{ site.env.MAPBOX_ACCESS_TOKEN | default: '' }}
+
 
 ### Plugins ###
 plugins:
