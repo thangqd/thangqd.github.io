@@ -1,7 +1,7 @@
 ---
-name: Vgrid Home
+name: Vgrid DGGS
 tools: [Vgrid]
-image: /assets/images/projects/vgridhome.png
-description: Vgrid Home
+image: /assets/images/projects/vgrid_dggs.png
+description: Vgrid DGGS Visualization
 external_url: https://vgrid.vn/
 ---
