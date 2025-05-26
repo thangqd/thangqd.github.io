@@ -47,9 +47,8 @@
 
 	<div id='map' class='map'>
 		<script type="module">
-			// Access the Mapbox token directly from Jekyll config
-			const mapboxToken = '{{ site.mapbox.access_token }}';
-			
+			const mapboxToken = "{{ site.mapbox.access_token }}";
+
 			// Your Mapbox initialization code here
 			mapboxgl.accessToken = mapboxToken;
 			var origin = [106.70588432455143, 10.772050709698838, 0];
