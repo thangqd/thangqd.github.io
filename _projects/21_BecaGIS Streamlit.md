@@ -1,7 +1,7 @@
 ---
 name: BecaGIS Streamlit
-tools: [BecaGIS for Community]
+tools: [Streamlit]
 image: /assets/images/projects/becagis_streamlit.png
-description: BecaGIS Streamlit - Geospatial Apps made Easy
+description: Geospatial Apps made Easy
 external_url: https://becagis.streamlit.app/
 ---
