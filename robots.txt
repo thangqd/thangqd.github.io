@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thangqd.github.io/sitemap.xml
+Sitemap: https://becagis.github.io/sitemap.xml
