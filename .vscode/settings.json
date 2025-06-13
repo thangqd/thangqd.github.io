@@ -1,3 +1,0 @@
-{
-    "jekyll-run.commandLineArguments": "bundle exec jekyll serve cmd"
-}

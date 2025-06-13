@@ -1,2 +1,0 @@
-mapbox:
-  access_token: ENV_MAPBOX_ACCESS_TOKEN
