@@ -83,6 +83,8 @@ jobs:
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
+          bundle config set --local without 'development test'
+          bundle install
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
@@ -93,3 +95,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+          branch: gh-pages
