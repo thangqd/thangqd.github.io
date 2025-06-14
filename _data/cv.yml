@@ -2,49 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Martin Bulla
+      value: Thang Quach
     - name: Date of Birth
-      value: 31st August 1981
+      value: 1982
     - name: Languages
-      value: English, German, Czech <em>native</em>, Slovak, Russian <em>basic</em>
+      value: Vietnamese <em>native</em>, English
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistent
-      institution: Czech University of Life Sciences Prague, Czechia
+    - title: GIS Team Lead
+      institution: Techcraft
       year: 2024 - present
-    - title: Postdoc
-      institution: Max Planck Institute for Biological Intelligence, Germany
-      year: 2023 - 2024
-    - title: Postdoc
-      institution: Czech University of Life Sciences Prague, Czechia
-      year: 2017 - 2024  
-    - title: Postdoc
-      institution: Max Planck Institute for Ornithology, Germany
-      year: 2019 - 2022
-    - title: Postdoc
-      institution: NIOZ Royal Netherlands Institute for Sea Research, the Netherlands
-      year: 2016 - 2019
-
+    - title: GIS Specialist
+      institution: Sovereign Solutions
+      year: 2024 - present
+    - title: GIS Solutions Team Lead
+      institution: VNTTS - A member of Becamex IDC
+      year: 2021 - 2023
+    - title: Head of Technology Development Division
+      institution: HCMGIS Center - HCMC DOST
+      year: 2008 - 2021
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Max Planck Institute for Ornithology, Seewiesen
-      year: 2017
-    - title: MSc
-      institution: Uni. of Natural Resources & Applied Life Sciences, Vienna
-      year: 2010
-    - title: Mgr
-      institution: Charles University, Prague
-      year: 2006
-    - title: BSc
-      institution: State University of New York, Prague
-      year: 2004
-    - title: Graduation
-      institution: Gymnasium Arabska, Prague
-      year: 2000  
-    - title: Graduation
-      institution: Kendall Senior High School, United States
-      year: 1999  
+    - title: PhD student in Cartography, Remote Sensing and GIS
+      institution: HCMC University of Technology
+      year: 2025 - present
+    - title: B.A in English Linguistics & Literature
+      institution: HCMC University of Social Sciences and Humanities
+      year: 2019 - 2023
+    - title: M.Sc in Cartography, Remote Sensing and GIS
+      institution: HCMC University of Technology  
+      year: 2006 - 2008
+    - title: B.Sc in Mathematics and Computer Science
+      institution: HCMC University of Natural Science
+      year: 1999 - 2003
