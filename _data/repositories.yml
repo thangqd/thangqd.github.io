@@ -1,27 +1,12 @@
 github_users:
-  - thangqd
-
-repo_description_lines_max: 2
+  - martinbulla
 
 github_repos:
-  - opengeoshub/vgrid
-  - opengeoshub/vgridjs
-  - opengeoshub/vgrid-maplibre
-  - opengeoshub/vgridtools
-  - felixpalmer/a5
-  - felixpalmer/a5-py
-
-  - opengeoshub/HCMGIS
-  - opengeoshub/becagis
-
-  - opengeoshub/vtiles
-  - opengeoshub/vstyles
-
-  - opengeoshub/vdownload
-  - opengeoshub/vopendata
-
-  - opengeoshub/geoprocessing
-  - opengeoshub/becagis_streamlit
-
-  - opengeoshub/QGIS-Training
-  - opengeoshub/BecaGIS-Resources
+  - martinbulla/rebuttal_alam_2024
+  - martinbulla/shorebird_bipInc_con
+  - martinbulla/avian_FID_covid
+  - martinbulla/ruff_sperm_v2
+  - martinbulla/Exchange_behaviour_incubating_SESA
+  - martinbulla/RWLE_predation_timing
+  - martinbulla/Still_no_evidence
+  - martinbulla/many_analysts
