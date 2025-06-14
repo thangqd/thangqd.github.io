@@ -6,4 +6,4 @@ img: assets/img/projects/overture_places.png
 importance: 2
 category: Miscs
 ---
-[Overture Places](https://opengeoshub.github.io/pages/fun/overture_places/)
+[Overture Places](https://opengeoshub.github.io/pages/overture_places/)
