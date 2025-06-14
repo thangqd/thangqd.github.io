@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: FAIR & CARE 2
+subtitle: FAIR & CARE
 profile:
   align: right
   image: thangqd.png
