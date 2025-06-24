@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GeoSurvey
+title: HCMGIS GeoSurvey
 description: Geospatial survey and data collection tool
 img: assets/img/projects/geosurvey.png
 importance: 3
