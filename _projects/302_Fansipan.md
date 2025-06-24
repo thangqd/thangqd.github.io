@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fansipan
-description: Fansipan - The roof of Indochina
+description: Fansipan - The Roof of Indochina
 img: assets/img/projects/fansipan.png
 importance: 2
 category: Miscs

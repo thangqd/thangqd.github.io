@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HCMGIS GeoReference
-description: Geospatial reference and coordinate system tool
+description: Georeference Platform
 img: assets/img/projects/georeference.png
 importance: 4
 category: HCMGIS Platforms

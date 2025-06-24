@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HCMGIS Maps
-description: HCMC Spatial Data Sharing Platform
+description: HCMC Maps
 img: assets/img/projects/maps.png
 importance: 2
 category: HCMGIS Platforms

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HCMGIS GeoSurvey
-description: Geospatial survey and data collection tool
+description: Geospatial Data Collection platform
 img: assets/img/projects/geosurvey.png
 importance: 3
 category: HCMGIS Platforms
