@@ -13,7 +13,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-An dedicated advocate and active contributor to geospatial open-source software, open standards, and open data. 
+An dedicated advocate and active contributor to geospatial open-source software, open standards, open data, open science and reproducible research. 
 
 
 Research interests: DGGS, digital earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
