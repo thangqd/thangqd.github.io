@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-sass-converter', '~> 2.2'
-gem 'nokogiri', '~> 1.18.8', :platforms => [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'nokogiri', '~> 1.18.8'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
