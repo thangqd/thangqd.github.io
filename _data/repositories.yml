@@ -3,11 +3,9 @@ github_users:
 
 github_repos:
   - opengeoshub/vgrid
-  - opengeoshub/vgridjs
   - opengeoshub/vgrid-maplibre
+  - opengeoshub/vgridpandas
   - opengeoshub/vgridtools
-  - felixpalmer/a5
-  - felixpalmer/a5-py
 
   - opengeoshub/HCMGIS
   - opengeoshub/becagis
@@ -24,3 +22,6 @@ github_repos:
   - opengeoshub/QGIS-Training
   - opengeoshub/gis-curriculum
   - opengeoshub/BecaGIS-Resources
+
+  - felixpalmer/a5
+  - felixpalmer/a5-py

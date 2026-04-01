@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin, :x64_mingw]
+gem 'wdm', '>= 0.1.0'
 gem 'jekyll-sass-converter', '~> 2.2'
 gem 'nokogiri', '~> 1.19.2'
 group :jekyll_plugins do

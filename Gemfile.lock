@@ -42,7 +42,7 @@ GEM
     csl-styles (2.0.1)
       csl (~> 2.0)
     cssminify2 (2.0.1)
-    csv (3.3.4)
+    csv (3.3.5)
     date (3.4.1)
     drb (2.2.3)
     em-websocket (0.5.3)
@@ -64,7 +64,7 @@ GEM
       nokogiri (>= 1.4)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
-    httparty (0.23.1)
+    httparty (0.24.2)
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
@@ -144,18 +144,15 @@ GEM
     mercenary (0.4.0)
     mini_mime (1.1.5)
     minitest (5.27.0)
-    multi_xml (0.6.0)
+    multi_xml (0.8.1)
+      bigdecimal (>= 3.1, < 5)
     namae (1.2.0)
       racc (~> 1.7)
-    nokogiri (1.19.1-x64-mingw-ucrt)
+    nokogiri (1.19.2-x64-mingw-ucrt)
       racc (~> 1.4)
-    nokogiri (1.19.1-x86_64-darwin)
+    nokogiri (1.19.2-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-darwin)
+    nokogiri (1.19.2-x86_64-linux-gnu)
       racc (~> 1.4)
     observer (0.1.2)
     open-uri (0.5.0)
@@ -213,10 +210,10 @@ DEPENDENCIES
   jekyll-target-blank
   jekyll-twitter-plugin
   jemoji
-  nokogiri (~> 1.18.8)
+  nokogiri (~> 1.19.2)
   unicode_utils
   wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
-   2.3.22
+  4.0.9

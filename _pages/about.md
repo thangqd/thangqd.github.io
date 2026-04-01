@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 A dedicated advocate and active contributor to geospatial open-source software, open standards, open data, open science and reproducible research. 
 
 
-Research interests: DGGS, digital earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
+Research interests: DGGS, Digital Earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
 
 
 Founder of [Open Geospatial Hub](https://gishub.vn) - an initiative dedicated to the development and dissemination of geospatial open-source projects, open data, open science and reproducible research. 
