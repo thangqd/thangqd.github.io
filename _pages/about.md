@@ -18,7 +18,7 @@ A dedicated advocate and active contributor to geospatial open-source software, 
 
 Research interests: DGGS, Digital Earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
 
-Contributor to the [EPSG](https://epsg.org/api/v1/Change/2019.057) registry entries for VN-2000/ TM-3 CRS across all provinces of Vietnam.
+Contributor to EPSG registry entries for VN-2000 / TM-3 CRS - [Change Request 2019.057](https://epsg.org/api/v1/Change/2019.057)
 
 Founder of [Open Geospatial Hub](https://gishub.vn) - an initiative dedicated to the development and dissemination of geospatial open-source projects, open data, open science and reproducible research. 
   
