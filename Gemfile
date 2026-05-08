@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'wdm', '>= 0.1.0'
 gem 'jekyll-sass-converter', '~> 2.2'
-gem 'nokogiri', '~> 1.19.2'
+gem 'nokogiri', '~> 1.19.3'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
