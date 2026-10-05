@@ -6,12 +6,14 @@ github_repos:
   - opengeoshub/vgrid-maplibre
   - opengeoshub/vgridpandas
   - opengeoshub/vgridtools
+  - opengeoshub/pop
 
   - opengeoshub/HCMGIS
   - opengeoshub/becagis
 
   - opengeoshub/vtiles
   - opengeoshub/vstyles
+  - opengeoshub/basemap
 
   - opengeoshub/vdownload
   - opengeoshub/vopendata

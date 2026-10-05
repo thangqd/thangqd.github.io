@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 A dedicated advocate and active contributor to geospatial open-source software, open standards, open data, open science and reproducible research. 
 
 
-Research interests: DGGS, Digital Earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
+Research interests: DGGS, Digital Earth, Cloud-native Geospatial, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
 
 Contributor to EPSG registry entries for VN-2000/ TM-3 CRS used across all provinces of Vietnam - [Change Request 2019.057](https://epsg.org/api/v1/Change/2019.057)
 
